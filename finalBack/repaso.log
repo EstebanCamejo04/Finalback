@@ -1,0 +1,75 @@
+[2024-03-06 22:27:20] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-06 22:27:50] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-06 22:28:29] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-06 22:29:10] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-06 22:30:43] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-06 22:30:43] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 20:48:29] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 20:48:29] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 20:48:29] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 20:48:29] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 20:50:26] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 20:50:26] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 20:50:26] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 20:50:26] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 20:54:41] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 20:54:41] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 20:56:18] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 20:56:18] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 20:56:18] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 20:56:18] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 20:57:39] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 20:57:39] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 20:57:39] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 20:57:39] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 20:57:39] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[dh.com.example.finalBack.model.Odontologo@2bc7db89]
+[2024-03-07 20:59:03] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 20:59:03] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 20:59:03] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 20:59:03] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 20:59:03] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[dh.com.example.finalBack.model.Odontologo@76cf841]
+[2024-03-07 21:00:13] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:00:13] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:00:13] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:00:13] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:00:13] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[dh.com.example.finalBack.model.Odontologo@626c19cf]
+[2024-03-07 21:04:20] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:04:20] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:04:20] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:04:20] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:04:20] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id1nombreEstebanapellidoCamejomatriculaLL45]
+[2024-03-07 21:05:20] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:05:20] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:05:20] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:05:20] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:05:20] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id:1nombre completo:Esteban CamejomatriculaLL45]
+[2024-03-07 21:06:20] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:06:20] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:06:20] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:06:20] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:06:20] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1nombre completo:Esteban Camejo matricula LL45]
+[2024-03-07 21:06:41] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:06:41] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:06:41] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:06:42] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:06:42] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-07 21:07:06] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:07:06] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:07:06] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:07:06] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:07:07] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-07 21:11:45] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:11:45] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:11:45] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:11:45] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:11:45] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[]
+[2024-03-07 21:12:10] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:12:10] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:12:10] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:12:10] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:12:10] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[]
+[2024-03-07 21:14:00] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:14:00] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:14:00] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:14:00] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:14:00] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[]

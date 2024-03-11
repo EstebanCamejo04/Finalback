@@ -1,0 +1,384 @@
+[2024-03-07 21:15:19] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:15:19] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:15:19] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:15:19] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:15:19] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[]
+[2024-03-07 21:17:27] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:17:27] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:17:27] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:17:27] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:17:27] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[]
+[2024-03-07 21:17:45] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:17:45] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:17:45] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:17:45] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:17:45] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-07 21:28:41] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:28:41] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:28:41] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:28:41] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:28:41] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-07 21:30:09] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:30:10] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:32:49] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:32:49] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:35:41] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:35:41] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:35:41] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:35:41] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:35:41] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-07 21:37:54] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:37:54] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:37:54] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:37:54] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:37:54] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-07 21:38:38] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:38:38] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:38:38] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:38:39] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:38:39] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-07 21:41:38] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:41:38] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:41:38] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:41:39] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:41:39] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-07 21:52:03] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 21:52:03] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 21:52:03] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 21:52:03] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 21:52:03] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-07 22:02:35] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 22:02:35] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 22:03:48] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-07 22:03:48] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-07 22:03:48] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-07 22:03:48] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-07 22:03:48] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 16:12:41] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-10 16:12:41] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-10 16:12:41] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 16:12:41] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 16:12:41] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 16:12:50] [ INFO ] [BD:44] se creo la tabla odontologos
+[2024-03-10 16:12:50] [ INFO ] [BD:46] se creo la tabla pacientes
+[2024-03-10 16:12:50] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 16:12:50] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 16:12:50] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 17:31:21] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 17:31:21] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 17:31:21] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 17:31:21] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 17:31:21] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 17:31:21] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 17:47:20] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 17:47:20] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 17:47:20] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 17:47:20] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 17:47:20] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 17:47:20] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 18:04:24] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 18:04:24] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 18:04:24] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 18:04:24] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 18:04:24] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 18:04:24] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 18:04:24] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 18:04:24] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 18:04:24] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 18:04:24] [ INFO ] [DomicilioDaoH2:144] Estamos consultando todos los domicilios
+[2024-03-10 18:04:24] [ INFO ] [DomicilioDaoH2:173] Esta es la lista que se está devolviendo??? [Domicilio con id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 18:05:29] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 18:05:29] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 18:05:29] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 18:05:29] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 18:05:29] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 18:05:29] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 18:05:29] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 18:05:29] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 18:05:29] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 18:05:29] [ INFO ] [DomicilioDaoH2:144] Estamos consultando todos los domicilios
+[2024-03-10 18:05:29] [ INFO ] [DomicilioDaoH2:173] Esta es la lista de domicilios[Domicilio con id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 18:25:30] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 18:25:30] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 18:25:30] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 18:25:30] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 18:25:30] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 18:25:30] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 18:25:30] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 18:25:30] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 18:25:30] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 18:25:30] [ INFO ] [DomicilioDaoH2:144] Estamos consultando todos los domicilios
+[2024-03-10 18:25:30] [ INFO ] [DomicilioDaoH2:173] Esta es la lista de domicilios[Domicilio con id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 18:27:30] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 18:27:30] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 18:27:30] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 18:27:30] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 18:27:30] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 18:27:30] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 18:27:30] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 18:27:30] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 18:27:30] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 18:27:30] [ INFO ] [DomicilioDaoH2:144] Estamos consultando todos los domicilios
+[2024-03-10 18:27:30] [ INFO ] [DomicilioDaoH2:173] Esta es la lista de domicilios[Domicilio con id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 18:31:31] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 18:31:31] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 18:31:31] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 18:31:31] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 18:31:31] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 18:31:31] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 18:31:31] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 18:31:31] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 18:31:31] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 18:31:31] [ INFO ] [DomicilioDaoH2:144] Estamos consultando todos los domicilios
+[2024-03-10 18:31:31] [ INFO ] [DomicilioDaoH2:173] Esta es la lista de domicilios[Domicilio con id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 18:33:12] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 18:33:12] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 18:33:12] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 18:33:12] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 18:33:12] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 18:33:12] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 18:33:12] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 18:33:12] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 18:33:12] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 18:33:12] [ INFO ] [DomicilioDaoH2:144] Estamos consultando todos los domicilios
+[2024-03-10 18:33:12] [ INFO ] [DomicilioDaoH2:173] Esta es la lista de domicilios[Domicilio con id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 18:35:11] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 18:35:11] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 18:35:11] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 18:35:11] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 18:35:11] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 18:35:11] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 18:35:11] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 18:35:11] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 18:35:11] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 18:35:11] [ INFO ] [DomicilioDaoH2:144] Estamos consultando todos los domicilios
+[2024-03-10 18:35:11] [ INFO ] [DomicilioDaoH2:173] Esta es la lista de domicilios[Domicilio con id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 18:35:11] [ INFO ] [PacienteDaoH2:149] Estamos consultando todos los Pacientes.
+[2024-03-10 18:35:11] [ INFO ] [PacienteDaoH2:178] Esta es la lista de pacientes[]
+[2024-03-10 18:36:05] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 18:36:05] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 18:36:05] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 18:36:05] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 18:36:05] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 18:36:05] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 18:36:05] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 18:36:05] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 18:36:05] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 18:36:05] [ INFO ] [DomicilioDaoH2:144] Estamos consultando todos los domicilios
+[2024-03-10 18:36:05] [ INFO ] [DomicilioDaoH2:173] Esta es la lista de domicilios[Domicilio con id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 18:36:05] [ INFO ] [PacienteDaoH2:149] Estamos consultando todos los Pacientes.
+[2024-03-10 18:36:05] [ INFO ] [PacienteDaoH2:178] Esta es la lista de pacientes[]
+[2024-03-10 18:36:24] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 18:36:24] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 18:36:24] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 18:36:24] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 18:36:24] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 18:36:24] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 18:36:24] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 18:36:24] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 18:36:24] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 18:36:24] [ INFO ] [DomicilioDaoH2:144] Estamos consultando todos los domicilios
+[2024-03-10 18:36:24] [ INFO ] [DomicilioDaoH2:173] Esta es la lista de domicilios[Domicilio con id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 18:36:24] [ INFO ] [PacienteDaoH2:149] Estamos consultando todos los Pacientes.
+[2024-03-10 18:36:24] [ INFO ] [PacienteDaoH2:178] Esta es la lista de pacientes[]
+[2024-03-10 18:38:48] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 18:38:48] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 18:38:48] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 18:38:48] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 18:38:48] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 18:38:48] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 18:38:48] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 18:38:48] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 18:38:48] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 18:38:48] [ INFO ] [DomicilioDaoH2:144] Estamos consultando todos los domicilios
+[2024-03-10 18:38:48] [ INFO ] [DomicilioDaoH2:173] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 18:38:48] [ INFO ] [PacienteDaoH2:149] Estamos consultando todos los Pacientes.
+[2024-03-10 18:38:48] [ INFO ] [PacienteDaoH2:178] Esta es la lista de pacientes[]
+[2024-03-10 21:01:29] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 21:01:29] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 21:01:52] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 21:01:52] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 21:02:11] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 21:02:11] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 21:03:06] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 21:03:06] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 21:03:19] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 21:03:19] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 21:04:23] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 21:04:23] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 21:07:31] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 21:07:31] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 21:09:03] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 21:09:03] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 21:09:03] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 21:09:03] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 21:09:03] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 21:09:03] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 21:09:03] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 21:09:03] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 21:09:03] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 21:09:03] [ INFO ] [DomicilioDaoH2:144] Estamos consultando todos los domicilios
+[2024-03-10 21:09:03] [ INFO ] [DomicilioDaoH2:173] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 21:09:03] [ INFO ] [PacienteDaoH2:152] Estamos consultando todos los Pacientes.
+[2024-03-10 21:09:04] [ INFO ] [PacienteDaoH2:181] Esta es la lista de pacientes[]
+[2024-03-10 21:09:59] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 21:09:59] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 21:09:59] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 21:09:59] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 21:09:59] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 21:09:59] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 21:09:59] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 21:09:59] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 21:09:59] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 21:09:59] [ INFO ] [DomicilioDaoH2:144] Estamos consultando todos los domicilios
+[2024-03-10 21:09:59] [ INFO ] [DomicilioDaoH2:173] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 21:09:59] [ INFO ] [PacienteDaoH2:153] Estamos consultando todos los Pacientes.
+[2024-03-10 21:09:59] [ INFO ] [PacienteDaoH2:182] Esta es la lista de pacientes[]
+[2024-03-10 21:10:12] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 21:10:12] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 21:10:12] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 21:10:12] [ INFO ] [OdontologoDaoH2:23] Estamos guardando un odontologo
+[2024-03-10 21:10:12] [ INFO ] [OdontologoDaoH2:135] Estamos consultando todos los Odontologos.
+[2024-03-10 21:10:12] [ INFO ] [OdontologoDaoH2:158] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 21:10:12] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 21:10:12] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 21:10:12] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 21:10:12] [ INFO ] [DomicilioDaoH2:144] Estamos consultando todos los domicilios
+[2024-03-10 21:10:12] [ INFO ] [DomicilioDaoH2:173] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 21:10:12] [ INFO ] [PacienteDaoH2:153] Estamos consultando todos los Pacientes.
+[2024-03-10 21:10:12] [ INFO ] [PacienteDaoH2:182] Esta es la lista de pacientes[]
+[2024-03-10 21:20:08] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 21:20:08] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 21:20:08] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 21:20:08] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-10 21:20:08] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-10 21:20:08] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 21:20:08] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 21:20:08] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 21:20:08] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 21:20:08] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-10 21:20:08] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 21:20:08] [ INFO ] [PacienteDaoH2:156] Estamos consultando todos los Pacientes.
+[2024-03-10 21:20:08] [ INFO ] [PacienteDaoH2:185] Esta es la lista de pacientes[]
+[2024-03-10 21:28:40] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 21:28:40] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 21:28:40] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 21:28:40] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-10 21:28:40] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-10 21:28:41] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 21:28:41] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 21:28:41] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 21:28:41] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 21:28:41] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-10 21:28:41] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 21:28:41] [ INFO ] [PacienteDaoH2:156] Estamos consultando todos los Pacientes.
+[2024-03-10 21:28:41] [ INFO ] [PacienteDaoH2:185] Esta es la lista de pacientes[]
+[2024-03-10 21:33:05] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 21:33:05] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 21:33:05] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 21:33:05] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-10 21:33:05] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-10 21:33:05] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 21:33:05] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 21:33:05] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 21:33:05] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 21:33:05] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-10 21:33:05] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 21:33:05] [ INFO ] [PacienteDaoH2:156] Estamos consultando todos los Pacientes.
+[2024-03-10 21:33:05] [ INFO ] [PacienteDaoH2:185] Esta es la lista de pacientes[]
+[2024-03-10 21:38:17] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 21:38:17] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 21:38:17] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 21:38:17] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-10 21:38:17] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-10 21:38:17] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 21:38:17] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 21:38:17] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 21:38:17] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 21:38:17] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-10 21:38:17] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 21:38:17] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-10 21:38:17] [ INFO ] [PacienteDaoH2:185] Esta es la lista de pacientes[]
+[2024-03-10 21:46:26] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 21:46:26] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 21:46:26] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 21:46:26] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-10 21:46:26] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-10 21:46:26] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 21:46:26] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 21:46:26] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 21:46:26] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 21:46:26] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-10 21:46:26] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 21:46:26] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-10 21:46:26] [ INFO ] [PacienteDaoH2:185] Esta es la lista de pacientes[]
+[2024-03-10 21:47:13] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 21:47:13] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 21:47:13] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 21:47:13] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-10 21:47:13] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-10 21:47:13] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 21:47:13] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 21:47:13] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 21:47:13] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 21:47:13] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-10 21:47:13] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 21:47:13] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-10 21:47:13] [ INFO ] [PacienteDaoH2:185] Esta es la lista de pacientes[]
+[2024-03-10 21:51:40] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 21:51:40] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 21:51:40] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 21:51:40] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-10 21:51:40] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-10 21:51:40] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 21:51:40] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 21:51:40] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 21:51:40] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 21:51:40] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-10 21:51:40] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 21:51:40] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-10 21:51:40] [ INFO ] [PacienteDaoH2:187] Esta es la lista de pacientes[]
+[2024-03-10 21:52:11] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 21:52:11] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 21:52:11] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 21:52:11] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-10 21:52:11] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-10 21:52:11] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 21:52:11] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 21:52:11] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 21:52:11] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 21:52:11] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-10 21:52:11] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 21:52:11] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-10 21:52:11] [ INFO ] [PacienteDaoH2:177] VIENDO QUE ONDA22
+[2024-03-10 21:52:11] [ INFO ] [PacienteDaoH2:188] Esta es la lista de pacientes[]
+[2024-03-10 21:53:09] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 21:53:09] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 21:53:09] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 21:53:09] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-10 21:53:09] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-10 21:53:09] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 21:53:09] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 21:53:09] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 21:53:09] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 21:53:09] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-10 21:53:09] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 21:53:09] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-10 21:53:09] [ INFO ] [PacienteDaoH2:168] VIENDO QUE PEDOO
+[2024-03-10 21:53:09] [ INFO ] [PacienteDaoH2:178] VIENDO QUE ONDA22
+[2024-03-10 21:53:09] [ INFO ] [PacienteDaoH2:189] Esta es la lista de pacientes[]
+[2024-03-10 21:53:27] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-10 21:53:27] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-10 21:53:27] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-10 21:53:27] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-10 21:53:27] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-10 21:53:27] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-10 21:53:27] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-10 21:53:27] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-10 21:53:27] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-10 21:53:27] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-10 21:53:27] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-10 21:53:27] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-10 21:53:27] [ INFO ] [PacienteDaoH2:168] VIENDO QUE PEDOO
+[2024-03-10 21:53:27] [ INFO ] [PacienteDaoH2:178] VIENDO QUE ONDA22
+[2024-03-10 21:53:27] [ INFO ] [PacienteDaoH2:189] Esta es la lista de pacientes[]
