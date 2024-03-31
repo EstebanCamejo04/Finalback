@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Gestión de Pacientes</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css" rel="stylesheet" type="text/css">
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/toastify-js" type="text/javascript"></script>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg nav">
+    <button aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation"
+            class="navbar-toggler"
+            data-target="#navbarNavAltMarkup" data-toggle="collapse" type="button">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+            <a class="nav-item nav-link btn btn-primary mr-2" href="index.html">Inicio</a>
+            <a class="nav-item nav-link btn btn-primary mr-2" href="odontologos.html">Gestionar Odontólogos</a>
+            <a class="nav-item nav-link btn btn-primary active mr-2" href="pacientes.html">Gestionar Pacientes</a>
+            <a class="nav-item nav-link btn btn-primary mr-2" href="turnos.html">Gestionar Turnos</a>
+        </div>
+    </div>
+</nav>
+
+<div class="container mt-5">
+    <h2 class="text-center mb-5">Lista de Pacientes</h2>
+
+    <table class="table" id="tablaPacientes">
+        <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>DNI</th>
+            <th>Fecha de Alta</th>
+            <th>Calle</th>
+            <th>Número</th>
+            <th>Localidad</th>
+            <th>Provincia</th>
+            <th>Acciones</th>
+        </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+
+    <button class="btn btn-primary mt-3 mb-3" data-target="#modalAgregar" data-toggle="modal" type="button">
+        Agregar Paciente
+    </button>
+</div>
+
+<!-- Modal para Agregar Paciente -->
+<div aria-hidden="true" aria-labelledby="modalAgregarLabel" class="modal fade" id="modalAgregar" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalAgregarLabel">Agregar Paciente</h5>
+                <button aria-label="Cerrar" class="close" data-dismiss="modal" type="button">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="formularioAgregar">
+                    <div class="form-group">
+                        <label for="alta_nombre">Nombre</label>
+                        <input class="form-control" id="alta_nombre" required type="text">
+                    </div>
+                    <div class="form-group">
+                        <label for="alta_apellido">Apellido</label>
+                        <input class="form-control" id="alta_apellido" required type="text">
+                    </div>
+                    <div class="form-group">
+                        <label for="alta_dni">DNI</label>
+                        <input class="form-control" id="alta_dni" required type="text">
+                    </div>
+                    <div class="form-group">
+                        <label for="alta_calle">Calle</label>
+                        <input class="form-control" id="alta_calle" required type="text">
+                    </div>
+                    <div class="form-group">
+                        <label for="alta_numero">Número</label>
+                        <input class="form-control" id="alta_numero" required type="number">
+                    </div>
+                    <div class="form-group">
+                        <label for="alta_localidad">Localidad</label>
+                        <input class="form-control" id="alta_localidad" required type="text">
+                    </div>
+                    <div class="form-group">
+                        <label for="alta_provincia">Provincia</label>
+                        <input class="form-control" id="alta_provincia" required type="text">
+                    </div>
+                    <button class="btn btn-primary" type="submit">Agregar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal para Editar Paciente -->
+<div aria-hidden="true" aria-labelledby="modalEditarLabel" class="modal fade" id="modalEditar" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalEditarLabel">Editar Paciente</h5>
+                <button aria-label="Cerrar" class="close" data-dismiss="modal" type="button">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="formularioEditar">
+                    <input id="editar_id" type="hidden">
+                    <input id="editar_domicilio_id" type="hidden">
+                    <input id="editar_fechaAltaPrivat" type="hidden">
+                    <div class="form-group">
+                        <label for="editar_nombre">Nombre</label>
+                        <input class="form-control" id="editar_nombre" required type="text">
+                    </div>
+                    <div class="form-group">
+                        <label for="editar_apellido">Apellido</label>
+                        <input class="form-control" id="editar_apellido" required type="text">
+                    </div>
+                    <div class="form-group">
+                        <label for="editar_dni">DNI</label>
+                        <input class="form-control" id="editar_dni" required type="text">
+                    </div>
+                    <div class="form-group">
+                        <label for="editar_calle">Calle</label>
+                        <input class="form-control" id="editar_calle" required type="text">
+                    </div>
+                    <div class="form-group">
+                        <label for="editar_numero">Número</label>
+                        <input class="form-control" id="editar_numero" required type="number">
+                    </div>
+                    <div class="form-group">
+                        <label for="editar_localidad">Localidad</label>
+                        <input class="form-control" id="editar_localidad" required type="text">
+                    </div>
+                    <div class="form-group">
+                        <label for="editar_provincia">Provincia</label>
+                        <input class="form-control" id="editar_provincia" required type="text">
+                    </div>
+                    <button class="btn btn-primary" type="submit">Editar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal de Confirmación -->
+<div aria-hidden="true" aria-labelledby="modalConfirmacionBorrarLabel" class="modal fade" id="modalConfirmacionBorrar"
+     role="dialog" tabindex="-1">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalConfirmacionBorrarLabel">Confirmar Acción</h5>
+                <input id="borrar_id" type="hidden">
+                <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                ¿Estás seguro de que deseas borrar este paciente?
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" data-dismiss="modal" type="button">Cancelar</button>
+                <button class="btn btn-danger" id="confirmarBorrar" type="button">Sí, borrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="js/pacientes.js" type="text/javascript"></script>
+</body>
+</html>

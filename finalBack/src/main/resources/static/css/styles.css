@@ -1,0 +1,30 @@
+/* Personalizar la barra de navegación con un color azul */
+.navbar {
+    background-color: lightslategrey;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: #ffffff !important;
+}
+
+/* Cambiar el color del enlace al hacer hover para mejorar la visibilidad */
+.navbar-nav .nav-link:hover {
+    color: #cccccc !important;
+}
+
+/* Estilo para el contenido principal para que destaque sobre el fondo */
+.container {
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Espaciado y estilos adicionales para los encabezados y texto */
+h2 {
+    color: #333333;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #666666;
+}

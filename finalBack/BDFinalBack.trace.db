@@ -733,3 +733,118 @@ Caused by: org.h2.mvstore.MVStoreException: The file is locked: C:/Users/camej/D
 	at org.h2.mvstore.FileStore.open(FileStore.java:128)
 	at org.h2.mvstore.MVStore.<init>(MVStore.java:452)
 	... 15 more
+2024-03-14 13:56:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Columna "FECHA_ALTA_PRIVAT" no encontrada
+Column "FECHA_ALTA_PRIVAT" not found; SQL statement:
+INSERT INTO PACIENTES (NOMBRE, APELLIDO, DOMICILIO_ID, DNI, FECHA_ALTA_PRIVAT) VALUES (?,?,?,?,?) [42122-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:502)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.table.Table.getColumn(Table.java:749)
+	at org.h2.command.Parser.parseColumn(Parser.java:1256)
+	at org.h2.command.Parser.parseColumnList(Parser.java:1241)
+	at org.h2.command.Parser.parseInsert(Parser.java:1641)
+	at org.h2.command.Parser.parsePrepared(Parser.java:814)
+	at org.h2.command.Parser.parse(Parser.java:689)
+	at org.h2.command.Parser.parse(Parser.java:661)
+	at org.h2.command.Parser.prepareCommand(Parser.java:569)
+	at org.h2.engine.SessionLocal.prepareLocal(SessionLocal.java:631)
+	at org.h2.engine.SessionLocal.prepareCommand(SessionLocal.java:554)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1116)
+	at org.h2.jdbc.JdbcPreparedStatement.<init>(JdbcPreparedStatement.java:92)
+	at org.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:1044)
+	at dh.com.example.finalBack.dao.implementacionDao.PacienteDaoH2.guardar(PacienteDaoH2.java:35)
+	at dh.com.example.finalBack.dao.implementacionDao.PacienteDaoH2.guardar(PacienteDaoH2.java:14)
+	at dh.com.example.finalBack.service.ImplementacionService.PacienteService.guardar(PacienteService.java:20)
+	at dh.com.example.finalBack.FinalBackApplication.main(FinalBackApplication.java:41)
+2024-03-14 13:57:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Columna "FECHA_ALTA_PRIVAT" no encontrada
+Column "FECHA_ALTA_PRIVAT" not found; SQL statement:
+INSERT INTO PACIENTES (NOMBRE, APELLIDO, DOMICILIO_ID, DNI, FECHA_ALTA_PRIVAT) VALUES (?,?,?,?,?) [42122-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:502)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.table.Table.getColumn(Table.java:749)
+	at org.h2.command.Parser.parseColumn(Parser.java:1256)
+	at org.h2.command.Parser.parseColumnList(Parser.java:1241)
+	at org.h2.command.Parser.parseInsert(Parser.java:1641)
+	at org.h2.command.Parser.parsePrepared(Parser.java:814)
+	at org.h2.command.Parser.parse(Parser.java:689)
+	at org.h2.command.Parser.parse(Parser.java:661)
+	at org.h2.command.Parser.prepareCommand(Parser.java:569)
+	at org.h2.engine.SessionLocal.prepareLocal(SessionLocal.java:631)
+	at org.h2.engine.SessionLocal.prepareCommand(SessionLocal.java:554)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1116)
+	at org.h2.jdbc.JdbcPreparedStatement.<init>(JdbcPreparedStatement.java:92)
+	at org.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:1044)
+	at dh.com.example.finalBack.dao.implementacionDao.PacienteDaoH2.guardar(PacienteDaoH2.java:35)
+	at dh.com.example.finalBack.dao.implementacionDao.PacienteDaoH2.guardar(PacienteDaoH2.java:14)
+	at dh.com.example.finalBack.service.ImplementacionService.PacienteService.guardar(PacienteService.java:20)
+	at dh.com.example.finalBack.FinalBackApplication.main(FinalBackApplication.java:41)
+2024-03-14 14:07:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Columna "FECHA_ALTA_PRIVAT" no encontrada
+Column "FECHA_ALTA_PRIVAT" not found; SQL statement:
+INSERT INTO PACIENTES (NOMBRE, APELLIDO, DOMICILIO_ID, DNI, FECHA_ALTA_PRIVAT) VALUES (?,?,?,?,?) [42122-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:502)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.table.Table.getColumn(Table.java:749)
+	at org.h2.command.Parser.parseColumn(Parser.java:1256)
+	at org.h2.command.Parser.parseColumnList(Parser.java:1241)
+	at org.h2.command.Parser.parseInsert(Parser.java:1641)
+	at org.h2.command.Parser.parsePrepared(Parser.java:814)
+	at org.h2.command.Parser.parse(Parser.java:689)
+	at org.h2.command.Parser.parse(Parser.java:661)
+	at org.h2.command.Parser.prepareCommand(Parser.java:569)
+	at org.h2.engine.SessionLocal.prepareLocal(SessionLocal.java:631)
+	at org.h2.engine.SessionLocal.prepareCommand(SessionLocal.java:554)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1116)
+	at org.h2.jdbc.JdbcPreparedStatement.<init>(JdbcPreparedStatement.java:92)
+	at org.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:1044)
+	at dh.com.example.finalBack.dao.implementacionDao.PacienteDaoH2.guardar(PacienteDaoH2.java:35)
+	at dh.com.example.finalBack.dao.implementacionDao.PacienteDaoH2.guardar(PacienteDaoH2.java:14)
+	at dh.com.example.finalBack.service.ImplementacionService.PacienteService.guardar(PacienteService.java:20)
+	at dh.com.example.finalBack.FinalBackApplication.main(FinalBackApplication.java:41)
+2024-03-14 14:07:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Columna "FECHA_ALTA_PRIVAT" no encontrada
+Column "FECHA_ALTA_PRIVAT" not found; SQL statement:
+INSERT INTO PACIENTES (NOMBRE, APELLIDO, DOMICILIO_ID, DNI, FECHA_ALTA_PRIVAT) VALUES (?,?,?,?,?) [42122-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:502)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.table.Table.getColumn(Table.java:749)
+	at org.h2.command.Parser.parseColumn(Parser.java:1256)
+	at org.h2.command.Parser.parseColumnList(Parser.java:1241)
+	at org.h2.command.Parser.parseInsert(Parser.java:1641)
+	at org.h2.command.Parser.parsePrepared(Parser.java:814)
+	at org.h2.command.Parser.parse(Parser.java:689)
+	at org.h2.command.Parser.parse(Parser.java:661)
+	at org.h2.command.Parser.prepareCommand(Parser.java:569)
+	at org.h2.engine.SessionLocal.prepareLocal(SessionLocal.java:631)
+	at org.h2.engine.SessionLocal.prepareCommand(SessionLocal.java:554)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1116)
+	at org.h2.jdbc.JdbcPreparedStatement.<init>(JdbcPreparedStatement.java:92)
+	at org.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:1044)
+	at dh.com.example.finalBack.dao.implementacionDao.PacienteDaoH2.guardar(PacienteDaoH2.java:35)
+	at dh.com.example.finalBack.dao.implementacionDao.PacienteDaoH2.guardar(PacienteDaoH2.java:14)
+	at dh.com.example.finalBack.service.ImplementacionService.PacienteService.guardar(PacienteService.java:20)
+	at dh.com.example.finalBack.FinalBackApplication.main(FinalBackApplication.java:41)
+2024-03-14 14:28:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Conversión de datos fallida, convirtiendo "INTEGER to DATE"
+Data conversion error converting "INTEGER to DATE" [22018-214]
+2024-03-14 14:29:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Conversión de datos fallida, convirtiendo "INTEGER to DATE"
+Data conversion error converting "INTEGER to DATE" [22018-214]
+2024-03-14 14:39:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Conversión de datos fallida, convirtiendo "INTEGER to DATE"
+Data conversion error converting "INTEGER to DATE" [22018-214]
+2024-03-14 14:58:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Conversión de datos fallida, convirtiendo "DATE to INTEGER"
+Data conversion error converting "DATE to INTEGER" [22018-214]
+2024-03-14 15:00:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Conversión de datos fallida, convirtiendo "DATE to INTEGER"
+Data conversion error converting "DATE to INTEGER" [22018-214]

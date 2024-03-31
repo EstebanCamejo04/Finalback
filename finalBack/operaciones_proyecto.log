@@ -382,3 +382,1337 @@
 [2024-03-10 21:53:27] [ INFO ] [PacienteDaoH2:168] VIENDO QUE PEDOO
 [2024-03-10 21:53:27] [ INFO ] [PacienteDaoH2:178] VIENDO QUE ONDA22
 [2024-03-10 21:53:27] [ INFO ] [PacienteDaoH2:189] Esta es la lista de pacientes[]
+[2024-03-12 21:34:54] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-12 21:34:54] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-12 21:34:54] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-12 21:34:54] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-12 21:34:54] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-12 21:34:54] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-12 21:34:54] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-12 21:34:54] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-12 21:34:54] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-12 21:34:54] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-12 21:34:54] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-12 21:34:54] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-12 21:34:54] [ INFO ] [PacienteDaoH2:168] VIENDO QUE PEDOO
+[2024-03-12 21:34:54] [ INFO ] [PacienteDaoH2:179] VIENDO QUE ONDA22
+[2024-03-12 21:34:54] [ INFO ] [PacienteDaoH2:190] Esta es la lista de pacientes[]
+[2024-03-12 21:38:44] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-12 21:38:44] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-12 21:38:44] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-12 21:38:44] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-12 21:38:44] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-12 21:38:44] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-12 21:38:44] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-12 21:38:44] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-12 21:38:44] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-12 21:38:44] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-12 21:38:44] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-12 21:38:44] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-12 21:38:44] [ INFO ] [PacienteDaoH2:168] VIENDO QUE PEDOO
+[2024-03-12 21:38:44] [ INFO ] [PacienteDaoH2:179] VIENDO QUE ONDA22
+[2024-03-12 21:38:44] [ INFO ] [PacienteDaoH2:190] Esta es la lista de pacientes[]
+[2024-03-12 21:51:54] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-12 21:51:54] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-12 21:51:54] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-12 21:51:54] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-12 21:51:54] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-12 21:51:54] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-12 21:51:54] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-12 21:51:54] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-12 21:51:54] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-12 21:51:54] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-12 21:51:54] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-12 21:51:54] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-12 21:51:54] [ INFO ] [PacienteDaoH2:168] VIENDO QUE PEDOO
+[2024-03-12 21:51:54] [ INFO ] [PacienteDaoH2:179] VIENDO QUE ONDA22
+[2024-03-12 21:51:54] [ INFO ] [PacienteDaoH2:190] Esta es la lista de pacientes[]
+[2024-03-12 23:00:38] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-12 23:00:38] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-12 23:00:38] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-12 23:00:38] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-12 23:00:38] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-12 23:00:38] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-12 23:00:38] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-12 23:00:38] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-12 23:00:38] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-12 23:00:38] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-12 23:00:38] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-12 23:00:38] [ INFO ] [PacienteDaoH2:158] Estamos consultando todos los Pacientes.
+[2024-03-12 23:00:38] [ INFO ] [PacienteDaoH2:169] VIENDO QUE PEDOO
+[2024-03-12 23:00:38] [ INFO ] [PacienteDaoH2:180] VIENDO QUE ONDA22
+[2024-03-12 23:00:38] [ INFO ] [PacienteDaoH2:191] Esta es la lista de pacientes[]
+[2024-03-12 23:01:29] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-12 23:01:29] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-12 23:01:29] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-12 23:01:29] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-12 23:01:30] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-12 23:01:30] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-12 23:01:30] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-12 23:01:30] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-12 23:01:30] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-12 23:01:30] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-12 23:01:30] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-12 23:01:30] [ INFO ] [PacienteDaoH2:159] Estamos consultando todos los Pacientes.
+[2024-03-12 23:01:30] [ INFO ] [PacienteDaoH2:170] VIENDO QUE PEDOO
+[2024-03-12 23:01:30] [ INFO ] [PacienteDaoH2:181] VIENDO QUE ONDA22
+[2024-03-12 23:01:30] [ INFO ] [PacienteDaoH2:192] Esta es la lista de pacientes[]
+[2024-03-12 23:05:05] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-12 23:05:05] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-12 23:05:05] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-12 23:05:05] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-12 23:05:05] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-12 23:05:05] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-12 23:05:05] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-12 23:05:05] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-12 23:05:05] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-12 23:05:05] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-12 23:05:05] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-12 23:05:05] [ INFO ] [PacienteDaoH2:161] Estamos consultando todos los Pacientes.
+[2024-03-12 23:05:05] [ INFO ] [PacienteDaoH2:172] VIENDO QUE PEDOO
+[2024-03-12 23:05:05] [ INFO ] [PacienteDaoH2:183] VIENDO QUE ONDA22
+[2024-03-12 23:05:05] [ INFO ] [PacienteDaoH2:194] Esta es la lista de pacientes[]
+[2024-03-12 23:08:21] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-12 23:08:21] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-12 23:08:21] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-12 23:08:21] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-12 23:08:21] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-12 23:08:21] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-12 23:08:21] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-12 23:08:21] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-12 23:08:21] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-12 23:08:21] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-12 23:08:21] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-12 23:08:21] [ INFO ] [PacienteDaoH2:160] Estamos consultando todos los Pacientes.
+[2024-03-12 23:08:21] [ INFO ] [PacienteDaoH2:171] VIENDO QUE PEDOO
+[2024-03-12 23:08:21] [ INFO ] [PacienteDaoH2:182] VIENDO QUE ONDA22
+[2024-03-12 23:08:21] [ INFO ] [PacienteDaoH2:193] Esta es la lista de pacientes[]
+[2024-03-14 12:49:35] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 12:49:35] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 12:49:35] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 12:49:35] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 12:49:35] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 12:49:35] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 12:49:35] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 12:49:35] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 12:49:35] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 12:49:35] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 12:49:35] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 12:49:35] [ INFO ] [PacienteDaoH2:159] Estamos consultando todos los Pacientes.
+[2024-03-14 12:49:35] [ INFO ] [PacienteDaoH2:170] VIENDO QUE PEDOO
+[2024-03-14 12:49:35] [ INFO ] [PacienteDaoH2:181] VIENDO QUE ONDA22
+[2024-03-14 12:49:35] [ INFO ] [PacienteDaoH2:192] Esta es la lista de pacientes[]
+[2024-03-14 13:01:25] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 13:01:25] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 13:01:25] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 13:01:25] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 13:01:25] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 13:01:25] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 13:01:25] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 13:01:25] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 13:01:25] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 13:01:25] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 13:01:25] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 13:01:25] [ INFO ] [PacienteDaoH2:151] Estamos consultando todos los Pacientes.
+[2024-03-14 13:01:25] [ INFO ] [PacienteDaoH2:162] VIENDO QUE PEDOO
+[2024-03-14 13:01:25] [ INFO ] [PacienteDaoH2:173] VIENDO QUE ONDA22
+[2024-03-14 13:01:25] [ INFO ] [PacienteDaoH2:184] Esta es la lista de pacientes[]
+[2024-03-14 13:01:42] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 13:01:42] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 13:01:42] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 13:01:42] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 13:01:42] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 13:01:42] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 13:01:42] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 13:01:42] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 13:01:42] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 13:01:42] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 13:01:42] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 13:01:42] [ INFO ] [PacienteDaoH2:151] Estamos consultando todos los Pacientes.
+[2024-03-14 13:01:42] [ INFO ] [PacienteDaoH2:162] VIENDO QUE PEDOO
+[2024-03-14 13:01:42] [ INFO ] [PacienteDaoH2:173] VIENDO QUE ONDA22
+[2024-03-14 13:01:42] [ INFO ] [PacienteDaoH2:184] Esta es la lista de pacientes[]
+[2024-03-14 13:01:48] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 13:01:48] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 13:01:48] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 13:01:48] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 13:01:48] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 13:01:48] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 13:01:48] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 13:01:48] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 13:01:48] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 13:01:48] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 13:01:48] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 13:01:48] [ INFO ] [PacienteDaoH2:151] Estamos consultando todos los Pacientes.
+[2024-03-14 13:01:48] [ INFO ] [PacienteDaoH2:162] VIENDO QUE PEDOO
+[2024-03-14 13:01:48] [ INFO ] [PacienteDaoH2:173] VIENDO QUE ONDA22
+[2024-03-14 13:01:48] [ INFO ] [PacienteDaoH2:184] Esta es la lista de pacientes[]
+[2024-03-14 13:04:25] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 13:04:25] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 13:04:25] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 13:04:25] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 13:04:25] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 13:04:25] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 13:04:25] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 13:04:25] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 13:04:25] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 13:04:25] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 13:04:25] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 13:04:25] [ INFO ] [PacienteDaoH2:158] Estamos consultando todos los Pacientes.
+[2024-03-14 13:04:25] [ INFO ] [PacienteDaoH2:169] VIENDO QUE PEDOO
+[2024-03-14 13:04:25] [ INFO ] [PacienteDaoH2:180] VIENDO QUE ONDA22
+[2024-03-14 13:04:25] [ INFO ] [PacienteDaoH2:191] Esta es la lista de pacientes[]
+[2024-03-14 13:13:28] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 13:13:28] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 13:13:28] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 13:13:28] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 13:13:28] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 13:13:28] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 13:13:28] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 13:13:28] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 13:13:28] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 13:13:28] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 13:13:28] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 13:13:28] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-14 13:13:28] [ INFO ] [PacienteDaoH2:168] VIENDO QUE PEDOO
+[2024-03-14 13:13:28] [ INFO ] [PacienteDaoH2:179] VIENDO QUE ONDA22
+[2024-03-14 13:13:28] [ INFO ] [PacienteDaoH2:190] Esta es la lista de pacientes[]
+[2024-03-14 13:20:46] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 13:20:46] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 13:20:46] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 13:20:46] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 13:20:46] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 13:20:46] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 13:20:46] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 13:20:46] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 13:20:46] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 13:20:46] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 13:20:46] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 13:20:46] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-14 13:20:46] [ INFO ] [PacienteDaoH2:168] VIENDO QUE PEDOO
+[2024-03-14 13:20:46] [ INFO ] [PacienteDaoH2:179] VIENDO QUE ONDA22
+[2024-03-14 13:20:46] [ INFO ] [PacienteDaoH2:190] Esta es la lista de pacientes[]
+[2024-03-14 13:21:51] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 13:21:51] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 13:21:51] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 13:21:51] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 13:21:51] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 13:21:51] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 13:21:51] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 13:21:51] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 13:21:51] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 13:21:51] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 13:21:51] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 13:21:51] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-14 13:21:51] [ INFO ] [PacienteDaoH2:168] VIENDO QUE PEDOO
+[2024-03-14 13:21:51] [ INFO ] [PacienteDaoH2:179] VIENDO QUE ONDA22
+[2024-03-14 13:21:51] [ INFO ] [PacienteDaoH2:190] Esta es la lista de pacientes[]
+[2024-03-14 13:22:03] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 13:22:03] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 13:22:03] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 13:22:03] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 13:22:03] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 13:22:03] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 13:22:03] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 13:22:03] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 13:22:03] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 13:22:03] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 13:22:03] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 13:22:03] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-14 13:22:03] [ INFO ] [PacienteDaoH2:168] VIENDO QUE PEDOO
+[2024-03-14 13:22:03] [ INFO ] [PacienteDaoH2:179] VIENDO QUE ONDA22
+[2024-03-14 13:22:03] [ INFO ] [PacienteDaoH2:190] Esta es la lista de pacientes[]
+[2024-03-14 13:56:20] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 13:56:20] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 13:56:20] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 13:56:20] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 13:56:20] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 13:56:20] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 13:56:20] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 13:56:20] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 13:56:20] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 13:56:20] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 13:56:20] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 13:56:20] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-14 13:56:20] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 13:56:20] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 13:56:20] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-14 13:56:20] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-14 13:56:20] [ INFO ] [PacienteDaoH2:168] VIENDO QUE PEDOO
+[2024-03-14 13:56:20] [ INFO ] [PacienteDaoH2:179] VIENDO QUE ONDA22
+[2024-03-14 13:56:20] [ INFO ] [PacienteDaoH2:190] Esta es la lista de pacientes[]
+[2024-03-14 13:57:46] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 13:57:46] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 13:57:46] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 13:57:46] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 13:57:46] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 13:57:46] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 13:57:46] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 13:57:46] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 13:57:46] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 13:57:46] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 13:57:46] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 13:57:46] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-14 13:57:46] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 13:57:46] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 13:57:46] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-14 13:57:46] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-14 13:57:46] [ INFO ] [PacienteDaoH2:168] VIENDO QUE PEDOO
+[2024-03-14 13:57:46] [ INFO ] [PacienteDaoH2:179] VIENDO QUE ONDA22
+[2024-03-14 13:57:46] [ INFO ] [PacienteDaoH2:190] Esta es la lista de pacientes[]
+[2024-03-14 14:07:03] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 14:07:03] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 14:07:03] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 14:07:03] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 14:07:03] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 14:07:03] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 14:07:03] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:07:03] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:07:03] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 14:07:03] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 14:07:03] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 14:07:03] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-14 14:07:03] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:07:03] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:07:03] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-14 14:07:03] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-14 14:07:03] [ INFO ] [PacienteDaoH2:168] VIENDO QUE PEDOO
+[2024-03-14 14:07:03] [ INFO ] [PacienteDaoH2:179] VIENDO QUE ONDA22
+[2024-03-14 14:07:03] [ INFO ] [PacienteDaoH2:190] Esta es la lista de pacientes[]
+[2024-03-14 14:07:56] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 14:07:56] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 14:07:56] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 14:07:56] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 14:07:56] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 14:07:56] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 14:07:56] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:07:56] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:07:56] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 14:07:56] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 14:07:56] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 14:07:56] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-14 14:07:56] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:07:56] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:07:56] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-14 14:07:56] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-14 14:07:56] [ INFO ] [PacienteDaoH2:168] VIENDO QUE PEDOO
+[2024-03-14 14:07:56] [ INFO ] [PacienteDaoH2:179] VIENDO QUE ONDA22
+[2024-03-14 14:07:56] [ INFO ] [PacienteDaoH2:190] Esta es la lista de pacientes[]
+[2024-03-14 14:28:07] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 14:28:07] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 14:28:07] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 14:28:07] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 14:28:07] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 14:28:07] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 14:28:07] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:28:07] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:28:07] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 14:28:07] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 14:28:07] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 14:28:07] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-14 14:28:07] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:28:07] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:28:07] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-14 14:28:07] [ INFO ] [PacienteDaoH2:48] SE CREO EL PACIENTE 1
+[2024-03-14 14:28:07] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-14 14:28:07] [ INFO ] [PacienteDaoH2:168] VIENDO QUE PEDOO
+[2024-03-14 14:28:07] [ INFO ] [DomicilioDaoH2:62] Estamos buscando un Domicilio
+[2024-03-14 14:28:07] [ INFO ] [PacienteDaoH2:190] Esta es la lista de pacientes[]
+[2024-03-14 14:29:41] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 14:29:41] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 14:29:41] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 14:29:41] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 14:29:41] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 14:29:41] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 14:29:41] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:29:41] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:29:41] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 14:29:41] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 14:29:41] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 14:29:41] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-14 14:29:41] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:29:41] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:29:41] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-14 14:29:41] [ INFO ] [PacienteDaoH2:48] SE CREO EL PACIENTE 1
+[2024-03-14 14:29:41] [ INFO ] [PacienteDaoH2:157] Estamos consultando todos los Pacientes.
+[2024-03-14 14:29:41] [ INFO ] [PacienteDaoH2:168] VIENDO QUE PEDOO
+[2024-03-14 14:29:41] [ INFO ] [DomicilioDaoH2:62] Estamos buscando un Domicilio
+[2024-03-14 14:29:41] [ INFO ] [PacienteDaoH2:190] Esta es la lista de pacientes[]
+[2024-03-14 14:39:56] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 14:39:56] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 14:39:56] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 14:39:56] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 14:39:56] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 14:39:56] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 14:39:56] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:39:56] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:39:56] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 14:39:56] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 14:39:56] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 14:39:56] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-14 14:39:56] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:39:56] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:39:56] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-14 14:39:56] [ INFO ] [PacienteDaoH2:47] SE CREO EL PACIENTE 1
+[2024-03-14 14:39:56] [ INFO ] [PacienteDaoH2:156] Estamos consultando todos los Pacientes.
+[2024-03-14 14:39:56] [ INFO ] [PacienteDaoH2:167] VIENDO QUE PEDOO
+[2024-03-14 14:39:57] [ INFO ] [DomicilioDaoH2:62] Estamos buscando un Domicilio
+[2024-03-14 14:39:57] [ INFO ] [PacienteDaoH2:189] Esta es la lista de pacientes[]
+[2024-03-14 14:44:14] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 14:44:14] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 14:44:14] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 14:44:14] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 14:44:14] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 14:44:14] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 14:44:14] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:44:14] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:44:14] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 14:44:14] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 14:44:14] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 14:44:14] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-14 14:44:14] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:44:14] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:44:14] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-14 14:44:14] [ INFO ] [PacienteDaoH2:47] SE CREO EL PACIENTE 1
+[2024-03-14 14:44:14] [ INFO ] [PacienteDaoH2:156] Estamos consultando todos los Pacientes.
+[2024-03-14 14:44:14] [ INFO ] [PacienteDaoH2:167] VIENDO QUE PEDOO
+[2024-03-14 14:44:14] [ INFO ] [DomicilioDaoH2:62] Estamos buscando un Domicilio
+[2024-03-14 14:44:14] [ INFO ] [PacienteDaoH2:174] VIENDO POR QUE MIERDA NO FUNCA
+[2024-03-14 14:44:14] [ INFO ] [PacienteDaoH2:178] VIENDO QUE ONDA22
+[2024-03-14 14:44:14] [ INFO ] [PacienteDaoH2:189] Esta es la lista de pacientes[id1  nombrejamon  queso  domicilionull  dni1234  fechaAltaPrivat2024-03-14]
+[2024-03-14 14:46:35] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 14:46:35] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 14:46:35] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 14:46:35] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 14:46:35] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 14:46:35] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 14:46:35] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:46:35] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:46:35] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 14:46:35] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 14:46:35] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 14:46:35] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-14 14:46:35] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:46:35] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:46:35] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-14 14:46:35] [ INFO ] [PacienteDaoH2:47] SE CREO EL PACIENTE 1
+[2024-03-14 14:46:35] [ INFO ] [PacienteDaoH2:156] Estamos consultando todos los Pacientes.
+[2024-03-14 14:46:35] [ INFO ] [DomicilioDaoH2:62] Estamos buscando un Domicilio
+[2024-03-14 14:46:35] [ INFO ] [PacienteDaoH2:186] Esta es la lista de pacientes[id1  nombrejamon  queso  domicilionull  dni1234  fechaAltaPrivat2024-03-14]
+[2024-03-14 14:51:39] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 14:51:39] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 14:51:39] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 14:51:39] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 14:51:39] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 14:51:39] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 14:51:39] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:51:39] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:51:39] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 14:51:39] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 14:51:39] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 14:51:39] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-14 14:51:39] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:51:39] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:51:39] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-14 14:51:39] [ INFO ] [PacienteDaoH2:47] SE CREO EL PACIENTE 1
+[2024-03-14 14:51:39] [ INFO ] [PacienteDaoH2:156] Estamos consultando todos los Pacientes.
+[2024-03-14 14:51:39] [ INFO ] [DomicilioDaoH2:62] Estamos buscando un Domicilio
+[2024-03-14 14:51:39] [ INFO ] [PacienteDaoH2:186] Esta es la lista de pacientes[id1  nombrejamon  queso  dni1234  fechaAltaPrivat2024-03-14  domicilionull]
+[2024-03-14 14:58:41] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 14:58:41] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 14:58:41] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 14:58:41] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 14:58:41] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 14:58:41] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 14:58:41] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:58:41] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:58:41] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 14:58:41] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 14:58:41] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 14:58:41] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-14 14:58:41] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 14:58:41] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 14:58:41] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-14 14:58:41] [ INFO ] [PacienteDaoH2:47] SE CREO EL PACIENTE 1
+[2024-03-14 14:58:41] [ INFO ] [PacienteDaoH2:156] Estamos consultando todos los Pacientes.
+[2024-03-14 14:58:41] [ INFO ] [PacienteDaoH2:186] Esta es la lista de pacientes[]
+[2024-03-14 15:00:17] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 15:00:17] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 15:00:17] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 15:00:17] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 15:00:17] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 15:00:17] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 15:00:17] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 15:00:17] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 15:00:17] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 15:00:17] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 15:00:17] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 15:00:17] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-14 15:00:17] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 15:00:17] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 15:00:17] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-14 15:00:18] [ INFO ] [PacienteDaoH2:47] SE CREO EL PACIENTE 1
+[2024-03-14 15:00:18] [ INFO ] [PacienteDaoH2:156] Estamos consultando todos los Pacientes.
+[2024-03-14 15:00:18] [ INFO ] [PacienteDaoH2:186] Esta es la lista de pacientes[]
+[2024-03-14 15:03:35] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 15:03:35] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 15:03:35] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 15:03:36] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 15:03:36] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 15:03:36] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 15:03:36] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 15:03:36] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 15:03:36] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 15:03:36] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 15:03:36] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 15:03:36] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-14 15:03:36] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 15:03:36] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 15:03:36] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-14 15:03:36] [ INFO ] [PacienteDaoH2:47] SE CREO EL PACIENTE 1
+[2024-03-14 15:03:36] [ INFO ] [PacienteDaoH2:156] Estamos consultando todos los Pacientes.
+[2024-03-14 15:03:36] [ INFO ] [DomicilioDaoH2:62] Estamos buscando un Domicilio
+[2024-03-14 15:03:36] [ INFO ] [PacienteDaoH2:192] Esta es la lista de pacientes[id1  nombrejamon  queso  dni1234  fechaAltaPrivat2024-03-14  domicilioid=2, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 15:42:52] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 15:42:52] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 15:42:52] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 15:42:52] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 15:42:52] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 15:42:52] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 15:42:52] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 15:42:52] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 15:42:52] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 15:42:52] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 15:42:52] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 15:42:52] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-14 15:42:52] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 15:42:52] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 15:42:52] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-14 15:42:52] [ INFO ] [PacienteDaoH2:47] SE CREO EL PACIENTE 1
+[2024-03-14 15:42:52] [ INFO ] [PacienteDaoH2:156] Estamos consultando todos los Pacientes.
+[2024-03-14 15:42:52] [ INFO ] [DomicilioDaoH2:62] Estamos buscando un Domicilio
+[2024-03-14 15:42:52] [ INFO ] [PacienteDaoH2:192] Esta es la lista de pacientes[id1  nombrejamon  queso  dni1234  fechaAltaPrivat2024-03-14  domicilioid=2, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 15:43:26] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 15:43:26] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 15:43:26] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 15:43:26] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 15:43:26] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 15:43:26] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 15:43:26] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 15:43:26] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 15:43:26] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 15:43:26] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 15:43:26] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 15:43:26] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-14 15:43:26] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 15:43:26] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 15:43:26] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-14 15:43:26] [ INFO ] [PacienteDaoH2:47] SE CREO EL PACIENTE 1
+[2024-03-14 15:43:26] [ INFO ] [PacienteDaoH2:156] Estamos consultando todos los Pacientes.
+[2024-03-14 15:43:26] [ INFO ] [DomicilioDaoH2:62] Estamos buscando un Domicilio
+[2024-03-14 15:43:26] [ INFO ] [PacienteDaoH2:192] Esta es la lista de pacientes[id1  nombrejamon  queso  dni1234  fechaAltaPrivat2024-03-14  domicilioid=2, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 15:43:59] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 15:43:59] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 15:44:14] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 15:44:14] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 15:44:40] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 15:44:42] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 15:44:42] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45, id: 2 Nombre completo:Ruben Machado matricula: 6734]
+[2024-03-14 15:47:14] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 15:47:14] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45, id: 2 Nombre completo:Ruben Machado matricula: 6734]
+[2024-03-14 15:49:06] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 15:49:06] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45, id: 2 Nombre completo:Ruben Machado matricula: 6734]
+[2024-03-14 15:49:23] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 15:49:25] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 15:49:25] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45, id: 2 Nombre completo:Ruben Machado matricula: 6734, id: 3 Nombre completo:juancito computador matricula: 12667]
+[2024-03-14 15:59:05] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 15:59:05] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45, id: 2 Nombre completo:Ruben Machado matricula: 6734, id: 3 Nombre completo:juancito computador matricula: 12667]
+[2024-03-14 15:59:06] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 15:59:06] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45, id: 2 Nombre completo:Ruben Machado matricula: 6734, id: 3 Nombre completo:juancito computador matricula: 12667]
+[2024-03-14 15:59:07] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 15:59:07] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45, id: 2 Nombre completo:Ruben Machado matricula: 6734, id: 3 Nombre completo:juancito computador matricula: 12667]
+[2024-03-14 16:02:04] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 16:02:04] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 16:02:04] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 16:02:04] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 16:02:04] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:02:04] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 16:02:04] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 16:02:04] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 16:02:04] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 16:02:04] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 16:02:04] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 16:02:04] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-14 16:02:04] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 16:02:04] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 16:02:04] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-14 16:02:04] [ INFO ] [PacienteDaoH2:47] SE CREO EL PACIENTE 1
+[2024-03-14 16:02:04] [ INFO ] [PacienteDaoH2:156] Estamos consultando todos los Pacientes.
+[2024-03-14 16:02:04] [ INFO ] [DomicilioDaoH2:62] Estamos buscando un Domicilio
+[2024-03-14 16:02:04] [ INFO ] [PacienteDaoH2:192] Esta es la lista de pacientes[id1  nombrejamon  queso  dni1234  fechaAltaPrivat2024-03-14  domicilioid=2, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 16:02:40] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:02:40] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 16:03:33] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:03:33] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 16:03:33] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:03:33] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 16:03:34] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:03:34] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 16:03:34] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:03:34] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 16:03:38] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:03:39] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 16:03:44] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 16:03:46] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:03:46] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45, id: 2 Nombre completo:lola perez matricula: 1234]
+[2024-03-14 16:03:48] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:03:48] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45, id: 2 Nombre completo:lola perez matricula: 1234]
+[2024-03-14 16:03:48] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:03:48] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45, id: 2 Nombre completo:lola perez matricula: 1234]
+[2024-03-14 16:03:48] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:03:48] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45, id: 2 Nombre completo:lola perez matricula: 1234]
+[2024-03-14 16:03:49] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:03:49] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45, id: 2 Nombre completo:lola perez matricula: 1234]
+[2024-03-14 16:03:49] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:03:49] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45, id: 2 Nombre completo:lola perez matricula: 1234]
+[2024-03-14 16:03:49] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:03:49] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45, id: 2 Nombre completo:lola perez matricula: 1234]
+[2024-03-14 16:04:29] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:04:29] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45, id: 2 Nombre completo:lola perez matricula: 1234]
+[2024-03-14 16:06:51] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-14 16:06:51] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-14 16:06:51] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-14 16:06:51] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-14 16:06:51] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:06:51] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 16:06:51] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 16:06:51] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 16:06:51] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-14 16:06:51] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-14 16:06:51] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 16:06:51] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-14 16:06:51] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-14 16:06:51] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-14 16:06:51] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-14 16:06:51] [ INFO ] [PacienteDaoH2:47] SE CREO EL PACIENTE 1
+[2024-03-14 16:06:51] [ INFO ] [PacienteDaoH2:156] Estamos consultando todos los Pacientes.
+[2024-03-14 16:06:51] [ INFO ] [DomicilioDaoH2:62] Estamos buscando un Domicilio
+[2024-03-14 16:06:51] [ INFO ] [PacienteDaoH2:192] Esta es la lista de pacientes[id1  nombrejamon  queso  dni1234  fechaAltaPrivat2024-03-14  domicilioid=2, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-14 16:06:55] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:06:55] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 16:07:01] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:07:01] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 16:09:29] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:09:29] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-14 16:12:32] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-14 16:12:32] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-19 20:03:53] [ INFO ] [BD:51] se creo la tabla odontologos
+[2024-03-19 20:03:53] [ INFO ] [BD:53] se creo la tabla pacientes
+[2024-03-19 20:03:53] [ INFO ] [BD:55] se creo la tabla domicilios
+[2024-03-19 20:03:53] [ INFO ] [OdontologoDaoH2:24] Estamos guardando un odontologo
+[2024-03-19 20:03:53] [ INFO ] [OdontologoDaoH2:138] Estamos consultando todos los Odontologos.
+[2024-03-19 20:03:53] [ INFO ] [OdontologoDaoH2:161] estos son los odontologos[id: 1 Nombre completo:Esteban Camejo matricula: LL45]
+[2024-03-19 20:03:53] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-19 20:03:53] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-19 20:03:53] [ INFO ] [DomicilioDaoH2:56] Este es el id: 1
+[2024-03-19 20:03:53] [ INFO ] [DomicilioDaoH2:146] Estamos consultando todos los domicilios
+[2024-03-19 20:03:53] [ INFO ] [DomicilioDaoH2:175] Esta es la lista de domicilios[id=1, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-19 20:03:53] [ INFO ] [PacienteDaoH2:27] Estamos guardando un paciente
+[2024-03-19 20:03:53] [ INFO ] [DomicilioDaoH2:27] Estamos guardando un domicilio
+[2024-03-19 20:03:53] [ INFO ] [DomicilioDaoH2:45] Se guardó el domicilio
+[2024-03-19 20:03:53] [ INFO ] [DomicilioDaoH2:56] Este es el id: 2
+[2024-03-19 20:03:53] [ INFO ] [PacienteDaoH2:47] SE CREO EL PACIENTE 1
+[2024-03-19 20:03:53] [ INFO ] [PacienteDaoH2:156] Estamos consultando todos los Pacientes.
+[2024-03-19 20:03:53] [ INFO ] [DomicilioDaoH2:62] Estamos buscando un Domicilio
+[2024-03-19 20:03:53] [ INFO ] [PacienteDaoH2:192] Esta es la lista de pacientes[id1  nombrejamon  queso  dni1234  fechaAltaPrivat2024-03-19  domicilioid=2, calle= lele, numero=123, localidad='pollo, provincia='atajuma]
+[2024-03-26 10:56:52] [ INFO ] [TurnoController:41] esto trae el turno: dh.com.example.finalBack.entity.Turno@569008df
+[2024-03-26 10:59:44] [ INFO ] [TurnoController:41] esto trae el turno: dh.com.example.finalBack.entity.Turno@3186d96a
+[2024-03-26 11:01:04] [ INFO ] [TurnoController:41] esto trae el turno: dh.com.example.finalBack.entity.Turno@114d23ad
+[2024-03-26 11:01:06] [ INFO ] [TurnoController:41] esto trae el turno: dh.com.example.finalBack.entity.Turno@3f518675
+[2024-03-26 11:01:07] [ INFO ] [TurnoController:41] esto trae el turno: dh.com.example.finalBack.entity.Turno@7d39b891
+[2024-03-26 11:04:56] [ INFO ] [TurnoController:41] esto trae el turno: dh.com.example.finalBack.entity.Turno@122d0c2a
+[2024-03-26 11:05:06] [ INFO ] [TurnoController:41] esto trae el turno: dh.com.example.finalBack.entity.Turno@32f202b8
+[2024-03-27 18:34:54] [ INFO ] [OdontologoController:37] Estamos buscando un odontologo por su id
+[2024-03-27 18:37:28] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo por su id1
+[2024-03-27 18:41:08] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-27 18:41:15] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-27 18:41:31] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-27 18:41:41] [ INFO ] [OdontologoController:65] Estamos eliminando un odontologo
+[2024-03-27 18:41:45] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-27 22:06:10] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-27 22:06:13] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-27 22:21:52] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-27 22:23:26] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-27 22:23:41] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-27 22:23:58] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-27 22:24:10] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-27 22:24:32] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 1
+[2024-03-27 22:24:37] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 2
+[2024-03-27 22:27:39] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-27 22:28:07] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-27 22:28:25] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-27 22:29:25] [ INFO ] [OdontologoController:65] Estamos eliminando un odontologo
+[2024-03-27 22:29:31] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:42:00] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:42:11] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 17:42:11] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:42:22] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 17:42:22] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:42:29] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:42:30] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:42:30] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:42:48] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:42:49] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:42:50] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:42:51] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:42:53] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:42:54] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:42:56] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:52:06] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:52:13] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 17:52:13] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:52:18] [ INFO ] [OdontologoController:65] Estamos eliminando un odontologo
+[2024-03-28 17:52:18] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:52:36] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 17:52:36] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:53:09] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 17:53:09] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:53:15] [ INFO ] [OdontologoController:65] Estamos eliminando un odontologo
+[2024-03-28 17:53:15] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 17:53:42] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 17:53:42] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:01:21] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:01:30] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 18:01:30] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:01:42] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 18:01:42] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:01:45] [ INFO ] [OdontologoController:65] Estamos eliminando un odontologo
+[2024-03-28 18:01:45] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:02:23] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:02:33] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 18:02:33] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:02:37] [ INFO ] [OdontologoController:65] Estamos eliminando un odontologo
+[2024-03-28 18:02:37] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:07:16] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:07:24] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 18:07:24] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:07:46] [ INFO ] [OdontologoController:65] Estamos eliminando un odontologo
+[2024-03-28 18:07:46] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:07:58] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 18:07:58] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:08:13] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 18:08:13] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:08:42] [ INFO ] [OdontologoController:65] Estamos eliminando un odontologo
+[2024-03-28 18:08:42] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:10:36] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 18:10:36] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:10:49] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 18:10:49] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:11:01] [ INFO ] [OdontologoController:65] Estamos eliminando un odontologo
+[2024-03-28 18:11:01] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:15:57] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:16:06] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 18:16:07] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 18:16:32] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 18:16:32] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 20:12:07] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 20:12:19] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 20:12:19] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 20:12:22] [ INFO ] [OdontologoController:65] Estamos eliminando un odontologo
+[2024-03-28 20:12:22] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 20:39:25] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 20:39:30] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 20:39:37] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 20:39:45] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 20:40:04] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-28 20:40:22] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-28 20:53:22] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-28 20:53:58] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-28 20:54:18] [ INFO ] [OdontologoController:64] Estamos actualizando un odontologo
+[2024-03-28 22:11:50] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-28 22:12:19] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 22:13:09] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-28 22:18:24] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-28 22:18:24] [ ERROR] [OdontologoController:53] No se encontró el odontólogo con id 9
+[2024-03-28 22:19:22] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 2
+[2024-03-28 22:19:22] [ ERROR] [OdontologoController:41] No se encontró el odontólogo con id 2
+[2024-03-28 22:20:14] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 22:20:51] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 22:20:52] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 22:20:53] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 22:20:57] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 22:46:25] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 22:46:28] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 22:46:28] [ ERROR] [OdontologoController:31] Ya existe odontologo con matricula 2345
+[2024-03-28 22:48:18] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 22:48:20] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 22:48:20] [ ERROR] [OdontologoController:31] Ya existe odontologo con matricula 2345
+[2024-03-28 22:49:40] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 22:49:42] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 22:49:42] [ ERROR] [OdontologoController:31] Ya existe odontologo con matricula 2345
+[2024-03-28 22:52:01] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 22:52:01] [ ERROR] [OdontologoController:31] Ya existe odontologo con matricula 2345
+[2024-03-28 22:52:07] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 22:52:07] [ ERROR] [OdontologoController:31] Ya existe odontologo con matricula 2345
+[2024-03-28 23:10:27] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 23:10:28] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-28 23:10:28] [ ERROR] [OdontologoController:33] Ya existe odontologo con matricula 2345
+[2024-03-28 23:15:05] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-28 23:16:42] [ INFO ] [PacienteController:38] Estamos guardando un paciente
+[2024-03-28 23:16:48] [ INFO ] [PacienteController:38] Estamos guardando un paciente
+[2024-03-28 23:16:48] [ ERROR] [PacienteService:32] Ya existe paciente con Dni 12345678
+[2024-03-28 23:17:21] [ INFO ] [PacienteController:47] Estamos listando todos los pacientes
+[2024-03-29 09:53:32] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 09:53:41] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-29 09:53:41] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 09:53:54] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-29 09:53:54] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 09:53:59] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 09:54:00] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 09:54:01] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 09:54:02] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 09:54:04] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 09:54:06] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 1
+[2024-03-29 09:54:12] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-29 09:54:12] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 09:54:17] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 2
+[2024-03-29 09:54:21] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-29 09:54:21] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 09:59:25] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-29 09:59:25] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 09:59:27] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 3
+[2024-03-29 09:59:36] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-29 09:59:36] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 09:59:51] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 09:59:51] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 09:59:51] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 09:59:56] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:04:09] [ INFO ] [PacienteController:38] Estamos guardando un paciente
+[2024-03-29 10:04:10] [ INFO ] [PacienteController:38] Estamos guardando un paciente
+[2024-03-29 10:04:10] [ ERROR] [PacienteService:32] Ya existe paciente con Dni 12345678
+[2024-03-29 10:04:20] [ INFO ] [PacienteController:38] Estamos guardando un paciente
+[2024-03-29 10:04:51] [ INFO ] [PacienteController:38] Estamos guardando un paciente
+[2024-03-29 10:04:51] [ ERROR] [PacienteService:32] Ya existe paciente con Dni 22345678
+[2024-03-29 10:05:07] [ INFO ] [PacienteController:38] Estamos guardando un paciente
+[2024-03-29 10:05:19] [ INFO ] [PacienteController:47] Estamos listando todos los pacientes
+[2024-03-29 10:05:52] [ INFO ] [PacienteController:30] Estamos buscando a un paciente con el id: 2
+[2024-03-29 10:07:09] [ INFO ] [PacienteController:30] Estamos buscando a un paciente con el id: 5
+[2024-03-29 10:07:09] [ INFO ] [PacienteService:49] No existe paciente con id 5
+[2024-03-29 10:09:11] [ INFO ] [PacienteController:47] Estamos listando todos los pacientes
+[2024-03-29 10:10:46] [ INFO ] [PacienteController:38] Estamos guardando un paciente
+[2024-03-29 10:10:46] [ ERROR] [PacienteService:32] Ya existe paciente con Dni 223456678
+[2024-03-29 10:10:54] [ INFO ] [PacienteController:38] Estamos guardando un paciente
+[2024-03-29 10:11:02] [ INFO ] [PacienteController:30] Estamos buscando a un paciente con el id: 4
+[2024-03-29 10:11:27] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:11:33] [ INFO ] [OdontologoController:73] Estamos eliminando un odontologo
+[2024-03-29 10:15:08] [ INFO ] [PacienteController:47] Estamos listando todos los pacientes
+[2024-03-29 10:25:46] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:25:48] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:25:52] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-29 10:25:52] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:25:53] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 1
+[2024-03-29 10:25:56] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-29 10:25:56] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:26:38] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:26:43] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-29 10:26:43] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:26:49] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 1
+[2024-03-29 10:26:58] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-29 10:26:58] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:27:00] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 2
+[2024-03-29 10:27:02] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-29 10:27:02] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:27:05] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 2
+[2024-03-29 10:27:36] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:27:40] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-29 10:27:40] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:27:42] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 1
+[2024-03-29 10:27:44] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-29 10:27:45] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:27:48] [ INFO ] [OdontologoController:73] Estamos eliminando un odontologo
+[2024-03-29 10:27:48] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:27:58] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-29 10:27:58] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:28:09] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-29 10:28:09] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:28:10] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 3
+[2024-03-29 10:28:14] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-29 10:28:14] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:28:19] [ INFO ] [OdontologoController:73] Estamos eliminando un odontologo
+[2024-03-29 10:28:19] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:29:22] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-29 10:29:22] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:29:26] [ INFO ] [OdontologoController:73] Estamos eliminando un odontologo
+[2024-03-29 10:29:26] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:29:36] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 2
+[2024-03-29 10:29:40] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-29 10:29:40] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:29:57] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-29 10:29:57] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:30:05] [ INFO ] [OdontologoController:73] Estamos eliminando un odontologo
+[2024-03-29 10:30:05] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:32:55] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:33:01] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-29 10:33:03] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-29 10:33:03] [ ERROR] [OdontologoController:32] Ya existe odontologo con matricula 2345
+[2024-03-29 10:33:11] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 10:33:37] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-29 10:33:45] [ INFO ] [OdontologoController:73] Estamos eliminando un odontologo
+[2024-03-29 10:44:38] [ INFO ] [PacienteController:38] Estamos guardando un paciente
+[2024-03-29 10:44:40] [ INFO ] [PacienteController:38] Estamos guardando un paciente
+[2024-03-29 10:44:40] [ ERROR] [PacienteService:32] Ya existe paciente con Dni 22378
+[2024-03-29 10:44:48] [ INFO ] [PacienteController:47] Estamos listando todos los pacientes
+[2024-03-29 19:55:41] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 19:55:43] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-29 19:55:47] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 19:56:01] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-29 19:56:01] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 19:56:03] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 1
+[2024-03-29 19:56:20] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-29 19:56:20] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 19:56:22] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-29 19:56:23] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 19:56:23] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-29 19:56:50] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-29 19:56:50] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-29 19:56:55] [ INFO ] [PacienteController:31] Estamos buscando a un paciente con el id: 1
+[2024-03-29 19:56:58] [ INFO ] [PacienteController:31] Estamos buscando a un paciente con el id: 1
+[2024-03-29 19:57:00] [ INFO ] [PacienteController:56] Estamos actualizando los datos de un paciente
+[2024-03-29 19:57:00] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-29 19:57:11] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-29 19:57:11] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-29 19:57:39] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-29 19:57:39] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 19:57:42] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 19:58:05] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-29 19:58:28] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 19:58:32] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 1
+[2024-03-29 19:58:39] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-29 19:58:49] [ INFO ] [PacienteController:31] Estamos buscando a un paciente con el id: 1
+[2024-03-29 19:58:57] [ INFO ] [PacienteController:79] Estamos eliminando a un paciente
+[2024-03-29 19:58:57] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-29 20:02:04] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 20:02:07] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 2
+[2024-03-29 20:02:11] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-29 20:02:11] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 20:02:20] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-29 20:02:20] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 20:02:23] [ INFO ] [OdontologoController:73] Estamos eliminando un odontologo
+[2024-03-29 20:02:23] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-29 20:02:24] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-29 20:03:47] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-29 20:04:15] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-29 20:04:20] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:06:53] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 13:06:59] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-30 13:06:59] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 13:07:00] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 1
+[2024-03-30 13:07:04] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-30 13:07:04] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 13:07:07] [ INFO ] [OdontologoController:73] Estamos eliminando un odontologo
+[2024-03-30 13:07:07] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 13:07:11] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:07:12] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:07:23] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-30 13:07:23] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:07:26] [ INFO ] [PacienteController:31] Estamos buscando a un paciente con el id: 1
+[2024-03-30 13:07:30] [ INFO ] [PacienteController:56] Estamos actualizando los datos de un paciente
+[2024-03-30 13:07:30] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:07:33] [ INFO ] [PacienteController:79] Estamos eliminando a un paciente
+[2024-03-30 13:07:33] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:07:45] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 13:07:55] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-30 13:07:56] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 13:07:56] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:08:11] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-30 13:08:11] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:08:14] [ INFO ] [PacienteController:31] Estamos buscando a un paciente con el id: 2
+[2024-03-30 13:08:21] [ INFO ] [PacienteController:56] Estamos actualizando los datos de un paciente
+[2024-03-30 13:08:21] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:09:37] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 13:09:44] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 13:09:52] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:10:01] [ INFO ] [PacienteController:79] Estamos eliminando a un paciente
+[2024-03-30 13:10:01] [ INFO ] [PacienteService:49] No existe paciente con id 1
+[2024-03-30 13:10:16] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:10:24] [ INFO ] [PacienteController:79] Estamos eliminando a un paciente
+[2024-03-30 13:10:36] [ INFO ] [PacienteController:31] Estamos buscando a un paciente con el id: 2
+[2024-03-30 13:10:36] [ INFO ] [PacienteService:49] No existe paciente con id 2
+[2024-03-30 13:10:41] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-30 13:10:42] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-30 13:10:42] [ ERROR] [PacienteService:32] Ya existe paciente con Dni 433333
+[2024-03-30 13:10:44] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-30 13:10:44] [ ERROR] [PacienteService:32] Ya existe paciente con Dni 433333
+[2024-03-30 13:10:56] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:11:05] [ INFO ] [PacienteController:79] Estamos eliminando a un paciente
+[2024-03-30 13:11:05] [ INFO ] [PacienteService:49] No existe paciente con id 2
+[2024-03-30 13:11:08] [ INFO ] [PacienteController:79] Estamos eliminando a un paciente
+[2024-03-30 13:11:10] [ INFO ] [PacienteController:79] Estamos eliminando a un paciente
+[2024-03-30 13:11:10] [ INFO ] [PacienteService:49] No existe paciente con id 3
+[2024-03-30 13:11:14] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:11:22] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-30 13:11:24] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-30 13:11:24] [ ERROR] [PacienteService:32] Ya existe paciente con Dni 433333
+[2024-03-30 13:11:25] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-30 13:11:25] [ ERROR] [PacienteService:32] Ya existe paciente con Dni 433333
+[2024-03-30 13:12:15] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-30 13:12:15] [ ERROR] [PacienteService:32] Ya existe paciente con Dni 433333
+[2024-03-30 13:12:16] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-30 13:12:16] [ ERROR] [PacienteService:32] Ya existe paciente con Dni 433333
+[2024-03-30 13:14:20] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:14:23] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:18:14] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:18:17] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-30 13:18:21] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:18:32] [ INFO ] [PacienteController:31] Estamos buscando a un paciente con el id: 1
+[2024-03-30 13:20:15] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-30 13:20:20] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 13:20:25] [ INFO ] [OdontologoController:73] Estamos eliminando un odontologo
+[2024-03-30 13:20:28] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 13:20:33] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:20:39] [ INFO ] [PacienteController:79] Estamos eliminando a un paciente
+[2024-03-30 13:20:42] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:20:46] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-30 13:20:56] [ INFO ] [PacienteController:56] Estamos actualizando los datos de un paciente
+[2024-03-30 13:21:08] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:21:20] [ INFO ] [PacienteController:56] Estamos actualizando los datos de un paciente
+[2024-03-30 13:21:27] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:21:32] [ INFO ] [PacienteController:31] Estamos buscando a un paciente con el id: 1
+[2024-03-30 13:21:32] [ INFO ] [PacienteService:49] No existe paciente con id 1
+[2024-03-30 13:21:40] [ INFO ] [PacienteController:31] Estamos buscando a un paciente con el id: 2
+[2024-03-30 13:25:12] [ ERROR] [OdontologoController:48] No se encontró el odontólogo con id 1
+[2024-03-30 13:25:52] [ ERROR] [OdontologoController:48] No se encontró el odontólogo con id 1
+[2024-03-30 13:27:30] [ ERROR] [OdontologoController:48] No se encontró el odontólogo con id 1
+[2024-03-30 13:28:50] [ ERROR] [OdontologoController:48] No se encontró el odontólogo con id 1
+[2024-03-30 13:29:05] [ ERROR] [OdontologoController:48] No se encontró el odontólogo con id 1
+[2024-03-30 13:32:30] [ ERROR] [OdontologoController:60] No se encontró el odontólogo con id 1
+[2024-03-30 13:32:30] [ ERROR] [OdontologoController:48] No se encontró el odontólogo con id 1
+[2024-03-30 13:32:41] [ ERROR] [OdontologoController:60] No se encontró el odontólogo con id 1
+[2024-03-30 13:32:41] [ ERROR] [OdontologoController:48] No se encontró el odontólogo con id 1
+[2024-03-30 13:32:55] [ ERROR] [OdontologoController:48] No se encontró el odontólogo con id 1
+[2024-03-30 13:38:22] [ ERROR] [OdontologoController:48] No se encontró el odontólogo con id 1
+[2024-03-30 13:41:42] [ ERROR] [OdontologoController:48] No se encontró el odontólogo con id 1
+[2024-03-30 13:41:53] [ ERROR] [OdontologoController:48] No se encontró el odontólogo con id 1
+[2024-03-30 13:44:45] [ ERROR] [OdontologoController:48] No se encontró el odontólogo con id 1
+[2024-03-30 13:44:56] [ ERROR] [OdontologoController:48] No se encontró el odontólogo con id 1
+[2024-03-30 13:48:49] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 13:48:54] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 13:49:01] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 13:49:09] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-30 13:49:09] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 13:49:10] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:49:17] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-30 13:49:17] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:50:33] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 13:50:37] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:50:45] [ INFO ] [TurnoController:38] Estamos guardando un truno
+[2024-03-30 13:50:49] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-30 13:57:47] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 13:58:00] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-30 13:58:00] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 13:58:02] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 13:58:16] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-30 13:58:17] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 15:43:42] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 15:43:56] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-30 15:43:56] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 15:44:00] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 1
+[2024-03-30 15:44:04] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-30 15:44:04] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 15:44:09] [ INFO ] [OdontologoController:73] Estamos eliminando un odontologo
+[2024-03-30 15:44:09] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 15:44:10] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 15:44:36] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-30 15:44:36] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 15:44:45] [ INFO ] [PacienteController:79] Estamos eliminando a un paciente
+[2024-03-30 15:44:45] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 15:44:46] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-30 15:44:52] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-30 15:44:57] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-30 15:44:58] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 16:49:51] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 16:49:55] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 16:49:55] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 16:49:57] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 16:50:03] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 16:50:03] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 16:50:06] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 16:51:00] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 16:51:38] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 16:52:32] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 16:52:34] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 16:52:39] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 16:52:44] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 16:53:00] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 16:53:09] [ INFO ] [TurnoController:38] Estamos guardando un truno
+[2024-03-31 16:53:15] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 16:53:19] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 16:53:20] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 17:01:14] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:01:18] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 17:01:18] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:01:19] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:01:25] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 17:01:25] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:01:26] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 17:01:44] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 17:04:55] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 17:10:58] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:11:00] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:11:00] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 17:11:01] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:11:01] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:11:02] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:11:03] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 17:11:04] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 17:11:07] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:11:11] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 17:11:15] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:11:16] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 17:11:35] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 17:12:50] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 17:13:03] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 17:13:08] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:13:09] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:13:11] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:13:11] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 17:13:21] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 17:14:17] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:14:21] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 17:14:21] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:14:21] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:14:23] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:14:24] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:14:30] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 17:14:30] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:14:32] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 17:14:39] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:14:40] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 17:15:05] [ INFO ] [TurnoController:52] Estamos listando los turnos
+[2024-03-31 17:16:38] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:16:42] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 17:16:42] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:16:43] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:16:48] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 17:16:48] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:27:48] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:27:53] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 17:27:53] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:27:53] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:28:01] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 17:28:01] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:33:48] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:33:52] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 17:33:52] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:33:53] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:34:01] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 17:34:01] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:34:14] [ INFO ] [TurnoController:81] Estamos listando los turnos
+[2024-03-31 17:41:00] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:41:04] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 17:41:04] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:41:05] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:41:11] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 17:41:11] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:41:13] [ INFO ] [TurnoController:108] Estamos listando los turnos
+[2024-03-31 17:46:07] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:46:11] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 17:46:11] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:46:12] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:46:18] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 17:46:18] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:46:19] [ INFO ] [TurnoController:108] Estamos listando los turnos
+[2024-03-31 17:51:13] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:51:17] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 17:51:17] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:51:19] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:51:28] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 17:51:28] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:51:36] [ INFO ] [TurnoController:110] Estamos listando los turnos
+[2024-03-31 17:51:48] [ INFO ] [TurnoController:84] Estamos guardando un turno
+[2024-03-31 17:54:13] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:54:17] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 17:54:17] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 17:54:18] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:54:25] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 17:54:25] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 17:54:28] [ INFO ] [TurnoController:110] Estamos listando los turnos
+[2024-03-31 17:54:37] [ INFO ] [TurnoController:84] Estamos guardando un turno
+[2024-03-31 17:54:37] [ INFO ] [TurnoController:110] Estamos listando los turnos
+[2024-03-31 17:55:28] [ INFO ] [TurnoController:84] Estamos guardando un turno
+[2024-03-31 17:55:28] [ INFO ] [TurnoController:110] Estamos listando los turnos
+[2024-03-31 18:02:03] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:02:13] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 18:02:13] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:02:14] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:02:41] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 18:02:41] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:02:42] [ INFO ] [TurnoController:112] Estamos listando los turnos
+[2024-03-31 18:02:56] [ INFO ] [TurnoController:85] Estamos guardando un turno
+[2024-03-31 18:02:56] [ INFO ] [TurnoController:112] Estamos listando los turnos
+[2024-03-31 18:03:11] [ INFO ] [TurnoController:112] Estamos listando los turnos
+[2024-03-31 18:08:37] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 18:08:40] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 18:08:43] [ INFO ] [TurnoController:85] Estamos guardando un turno
+[2024-03-31 18:08:46] [ INFO ] [TurnoController:85] Estamos guardando un turno
+[2024-03-31 18:11:25] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:11:29] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 18:11:29] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:11:30] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:11:35] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 18:11:35] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:11:36] [ INFO ] [TurnoController:113] Estamos listando los turnos
+[2024-03-31 18:11:43] [ INFO ] [TurnoController:85] Estamos guardando un turno
+[2024-03-31 18:11:46] [ INFO ] [TurnoController:85] Estamos guardando un turno
+[2024-03-31 18:11:46] [ INFO ] [TurnoController:85] Estamos guardando un turno
+[2024-03-31 18:11:47] [ INFO ] [TurnoController:85] Estamos guardando un turno
+[2024-03-31 18:11:48] [ INFO ] [TurnoController:85] Estamos guardando un turno
+[2024-03-31 18:11:48] [ INFO ] [TurnoController:85] Estamos guardando un turno
+[2024-03-31 18:11:49] [ INFO ] [TurnoController:85] Estamos guardando un turno
+[2024-03-31 18:11:49] [ INFO ] [TurnoController:85] Estamos guardando un turno
+[2024-03-31 18:11:49] [ INFO ] [TurnoController:85] Estamos guardando un turno
+[2024-03-31 18:12:14] [ INFO ] [TurnoController:85] Estamos guardando un turno
+[2024-03-31 18:13:50] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:13:53] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 18:13:53] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:13:55] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:14:00] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 18:14:00] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:14:01] [ INFO ] [TurnoController:113] Estamos listando los turnos
+[2024-03-31 18:14:09] [ INFO ] [TurnoController:85] Estamos guardando un turno
+[2024-03-31 18:14:34] [ INFO ] [TurnoController:112] Estamos listando los turnos
+[2024-03-31 18:14:35] [ INFO ] [TurnoController:112] Estamos listando los turnos
+[2024-03-31 18:14:43] [ INFO ] [TurnoController:85] Estamos guardando un turno
+[2024-03-31 18:14:43] [ ERROR] [OdontologoController:48] No se encontró el odontólogo con id 1
+[2024-03-31 18:14:52] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:14:55] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 18:14:55] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:14:56] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:15:02] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 18:15:02] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:15:03] [ INFO ] [TurnoController:112] Estamos listando los turnos
+[2024-03-31 18:15:14] [ INFO ] [TurnoController:85] Estamos guardando un turno
+[2024-03-31 18:15:14] [ INFO ] [TurnoController:112] Estamos listando los turnos
+[2024-03-31 18:16:11] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:16:22] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 18:16:22] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:16:22] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:16:48] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 18:16:48] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:16:50] [ INFO ] [TurnoController:113] Estamos listando los turnos
+[2024-03-31 18:17:28] [ INFO ] [TurnoController:85] Estamos guardando un turno
+[2024-03-31 18:17:28] [ INFO ] [TurnoController:113] Estamos listando los turnos
+[2024-03-31 18:31:27] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:31:31] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 18:31:31] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:31:31] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:31:37] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 18:31:37] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:31:38] [ INFO ] [TurnoController:114] Estamos listando los turnos
+[2024-03-31 18:34:27] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:34:27] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:34:28] [ INFO ] [TurnoController:114] Estamos listando los turnos
+[2024-03-31 18:44:02] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:44:10] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 18:44:10] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:44:11] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:44:22] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 18:44:22] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:44:23] [ INFO ] [TurnoController:111] Estamos listando los turnos
+[2024-03-31 18:50:43] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:50:58] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 18:50:58] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:50:59] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:51:18] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 18:51:18] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:51:20] [ INFO ] [TurnoController:71] Estamos listando los turnos
+[2024-03-31 18:51:34] [ INFO ] [TurnoController:44] Estamos guardando un turno
+[2024-03-31 18:51:34] [ INFO ] [TurnoController:71] Estamos listando los turnos
+[2024-03-31 18:57:56] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:57:57] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 1
+[2024-03-31 18:58:01] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-31 18:58:01] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:58:03] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 18:58:05] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:58:06] [ INFO ] [TurnoController:71] Estamos listando los turnos
+[2024-03-31 18:58:07] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:58:09] [ INFO ] [PacienteController:31] Estamos buscando a un paciente con el id: 1
+[2024-03-31 18:58:14] [ INFO ] [PacienteController:56] Estamos actualizando los datos de un paciente
+[2024-03-31 18:58:14] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:58:16] [ INFO ] [TurnoController:71] Estamos listando los turnos
+[2024-03-31 18:58:26] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:58:31] [ INFO ] [PacienteController:31] Estamos buscando a un paciente con el id: 1
+[2024-03-31 18:58:32] [ INFO ] [PacienteController:56] Estamos actualizando los datos de un paciente
+[2024-03-31 18:58:32] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 18:59:40] [ INFO ] [TurnoController:71] Estamos listando los turnos
+[2024-03-31 18:59:56] [ INFO ] [TurnoController:71] Estamos listando los turnos
+[2024-03-31 19:00:23] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 19:00:44] [ INFO ] [PacienteController:31] Estamos buscando a un paciente con el id: 1
+[2024-03-31 19:01:06] [ INFO ] [PacienteController:56] Estamos actualizando los datos de un paciente
+[2024-03-31 19:01:06] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 19:01:13] [ INFO ] [PacienteController:31] Estamos buscando a un paciente con el id: 1
+[2024-03-31 19:02:15] [ INFO ] [TurnoController:71] Estamos listando los turnos
+[2024-03-31 19:03:49] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 19:03:52] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 19:03:52] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 19:03:53] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 19:03:59] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 19:03:59] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 19:04:00] [ INFO ] [TurnoController:70] Estamos listando los turnos
+[2024-03-31 19:04:03] [ INFO ] [TurnoController:70] Estamos listando los turnos
+[2024-03-31 19:04:04] [ INFO ] [TurnoController:70] Estamos listando los turnos
+[2024-03-31 19:04:05] [ INFO ] [TurnoController:70] Estamos listando los turnos
+[2024-03-31 19:04:07] [ INFO ] [TurnoController:70] Estamos listando los turnos
+[2024-03-31 19:04:17] [ INFO ] [TurnoController:44] Estamos guardando un turno
+[2024-03-31 19:04:17] [ INFO ] [TurnoController:70] Estamos listando los turnos
+[2024-03-31 19:08:12] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 19:08:16] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 19:08:16] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 19:08:17] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 19:08:21] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 19:08:21] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 19:08:22] [ INFO ] [TurnoController:70] Estamos listando los turnos
+[2024-03-31 19:08:30] [ INFO ] [TurnoController:44] Estamos guardando un turno
+[2024-03-31 19:08:30] [ INFO ] [TurnoController:70] Estamos listando los turnos
+[2024-03-31 19:09:01] [ INFO ] [TurnoController:70] Estamos listando los turnos
+[2024-03-31 19:09:28] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 19:09:31] [ INFO ] [TurnoController:70] Estamos listando los turnos
+[2024-03-31 19:10:59] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 19:11:02] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 19:11:02] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 19:11:03] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 1
+[2024-03-31 19:11:06] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-31 19:11:06] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 19:11:08] [ INFO ] [OdontologoController:29] Estamos buscando un odontologo con el id: 1
+[2024-03-31 19:11:09] [ INFO ] [OdontologoController:51] Estamos actualizando un odontologo
+[2024-03-31 19:11:09] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 19:11:11] [ INFO ] [OdontologoController:73] Estamos eliminando un odontologo
+[2024-03-31 19:11:11] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 19:11:16] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 19:11:16] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 19:11:16] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 19:11:23] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 19:11:23] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 19:11:24] [ INFO ] [PacienteController:31] Estamos buscando a un paciente con el id: 1
+[2024-03-31 19:11:28] [ INFO ] [PacienteController:56] Estamos actualizando los datos de un paciente
+[2024-03-31 19:11:28] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 19:11:30] [ INFO ] [PacienteController:79] Estamos eliminando a un paciente
+[2024-03-31 19:11:30] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 19:11:36] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 19:11:36] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 19:11:37] [ INFO ] [TurnoController:70] Estamos listando los turnos
+[2024-03-31 19:11:45] [ INFO ] [TurnoController:44] Estamos guardando un turno
+[2024-03-31 19:11:45] [ ERROR] [OdontologoController:48] No se encontró el odontólogo con id 1
+[2024-03-31 19:11:48] [ INFO ] [TurnoController:44] Estamos guardando un turno
+[2024-03-31 19:11:48] [ ERROR] [OdontologoController:48] No se encontró el odontólogo con id 1
+[2024-03-31 19:11:50] [ INFO ] [PacienteController:48] Estamos listando todos los pacientes
+[2024-03-31 19:11:51] [ INFO ] [OdontologoController:44] Estamos listando los odontologos
+[2024-03-31 19:11:52] [ INFO ] [TurnoController:70] Estamos listando los turnos
+[2024-03-31 19:12:00] [ INFO ] [TurnoController:44] Estamos guardando un turno
+[2024-03-31 19:12:00] [ INFO ] [TurnoController:70] Estamos listando los turnos
+[2024-03-31 19:12:24] [ INFO ] [OdontologoController:36] Estamos guardando un odontologo
+[2024-03-31 19:12:27] [ INFO ] [PacienteController:39] Estamos guardando un paciente
+[2024-03-31 19:12:29] [ INFO ] [TurnoController:44] Estamos guardando un turno
+[2024-03-31 19:12:32] [ INFO ] [TurnoController:44] Estamos guardando un turno
+[2024-03-31 19:12:33] [ INFO ] [TurnoController:44] Estamos guardando un turno
+[2024-03-31 19:12:37] [ INFO ] [TurnoController:70] Estamos listando los turnos
